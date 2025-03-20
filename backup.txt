@@ -1,0 +1,6 @@
+#;am;f1.txt;1#
+#;great.;f1.txt;1#
+#;god;f1.txt;2#
+#;is;f1.txt;1#
+#;i;f1.txt;1#
+#;,;f1.txt;1#
